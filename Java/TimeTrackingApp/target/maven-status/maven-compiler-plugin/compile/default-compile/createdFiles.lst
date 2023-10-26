@@ -1,3 +1,3 @@
 com\robertharper\timetracking\HourlyView.class
 com\robertharper\timetracking\ActivityEntryDialog.class
-TimeTrackingApp.class
+com\robertharper\timetracking\TimeTrackingApp.class
